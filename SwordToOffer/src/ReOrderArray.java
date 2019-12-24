@@ -1,0 +1,31 @@
+
+/** 题目描述
+ * 输入一个整数数组，实现一个函数来调整该数组中数字的顺序，
+ * 使得所有的奇数位于数组的前半部分，所有的偶数位于数组的后半部分，
+ * 并保证奇数和奇数，偶数和偶数之间的相对位置不变。
+ * */
+public class ReOrderArray {
+  public void reOrderArray(int [] array) {
+    int last_index = 0;
+    for(int i=0; i<array.length; i++) {
+      if (!ParityJudgment(array[i])) { // 如果当前是奇数，那么
+
+      }
+    }
+    return;
+  }
+//  判断奇偶性
+  public boolean ParityJudgment(int number) {
+    if(number%2 == 0){
+      return true; //若为偶数则返回true
+    }
+    else return false;
+  }
+
+  public static void main(String[] args) {
+
+    ReOrderArray reOrderArray = new ReOrderArray();
+    reOrderArray.reOrderArray();
+    System.out.println(reOrderArray.);
+  }
+}
