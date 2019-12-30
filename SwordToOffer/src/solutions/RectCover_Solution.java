@@ -1,3 +1,5 @@
+package solutions;
+
 public class RectCover_Solution {
   public int RectCover(int target) {
     //        if (target == 0) {

@@ -1,3 +1,5 @@
+package solutions;
+
 public class JumpFloorII_Solution {
     //递归解法
   public int JumpFloorII(int target) {
