@@ -1,3 +1,5 @@
+package solutions;
+
 public class JumpFloorSolution {
   public int JumpFloor(int target) {
       if(target == 1) {
