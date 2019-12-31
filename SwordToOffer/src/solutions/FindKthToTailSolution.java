@@ -1,5 +1,7 @@
 package solutions;
 
+import utils.ListNode;
+
 /**
  * Date：2019-12-29
  * 题目描述
@@ -7,16 +9,6 @@ package solutions;
  */
 
 public class FindKthToTailSolution {
-
-    public class ListNode {
-        int val;
-        ListNode next = null;
-
-        ListNode(int val) {
-            this.val = val;
-        }
-    }
-
     public ListNode FindKthToTail(ListNode head, int k) {
         // 注意边界条件
         if (head == null) {
@@ -42,29 +34,12 @@ public class FindKthToTailSolution {
         return currentNode;
     }
 
-    public ListNode initListNode () {
-        ListNode listNode = new ListNode(0);
-        ListNode currentNode = listNode;
-        for (int i=1; i<11; i++) {
-            currentNode.next = new ListNode(i);
-            currentNode = currentNode.next;
-        }
-        return listNode;
-    }
 
-    public void printListNode (ListNode listNode) {
-        ListNode currentNode = listNode;
-        System.out.println(currentNode.val);
-        while (currentNode.next != null) {
-            currentNode = currentNode.next;
-            System.out.println(currentNode.val);
-        }
-    }
 
     public static void main(String[] args) {
         FindKthToTailSolution Solution = new FindKthToTailSolution();
-        ListNode listNode = Solution.initListNode();
-        Solution.printListNode(Solution.FindKthToTail(listNode, 1));
+        ListNode listNode = ListNode.initListNode();
+        ListNode.printListNode(Solution.FindKthToTail(listNode, 1));
 
     }
 }

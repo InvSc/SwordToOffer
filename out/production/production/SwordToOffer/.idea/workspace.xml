@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3cdb7921-efc8-41d2-8794-d984d5a6f8e0" name="Default Changelist" comment="Correct ReOrderArray solution.">
-      <change beforePath="$PROJECT_DIR$/.idea/google-java-format.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/google-java-format.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,7 +25,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1Vet8y4o4NqNYBECNz0GYAJs4y8" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -38,7 +38,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="EclipseFormatter" />
+    <property name="settings.editor.selected.configurable" value="google-java-format.settings" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -52,14 +52,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FindKthToTailSolution">
-    <configuration name="FindKthToTailSolution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FindKthToTailSolution" />
-      <module name="SwordToOffer" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ReverseListSolution">
     <configuration name="ReOrderArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ReOrderArray" />
       <module name="SwordToOffer" />
@@ -67,9 +60,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ReverseListSolution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="solutions.ReverseListSolution" />
+      <module name="SwordToOffer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="solutions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FindKthToTailSolution" />
+        <item itemvalue="Application.ReverseListSolution" />
         <item itemvalue="Application.ReOrderArray" />
       </list>
     </recent_temporary>
@@ -92,9 +98,6 @@
       <workItem from="1577456099430" duration="1195000" />
       <workItem from="1577512090264" duration="1983000" />
       <workItem from="1577623140629" duration="260000" />
-      <workItem from="1577625237348" duration="1334000" />
-      <workItem from="1577670380706" duration="189000" />
-      <workItem from="1577670592064" duration="1696000" />
     </task>
     <task id="LOCAL-00001" summary="No Important Change.">
       <created>1577430603393</created>
