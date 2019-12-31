@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3cdb7921-efc8-41d2-8794-d984d5a6f8e0" name="Default Changelist" comment="Correct ReOrderArray solution." />
+    <list default="true" id="3cdb7921-efc8-41d2-8794-d984d5a6f8e0" name="Default Changelist" comment="Correct ReOrderArray solution.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SwordToOffer/src/FindKthToTailSolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/SwordToOffer/src/FindKthToTailSolution.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,11 +16,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SwordToOffer/src/FindKthToTailSolution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="78">
+              <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SwordToOffer/src/JumpFloorSolution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="13" selection-start-column="13" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -45,7 +57,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="155" />
+    <option name="x" value="154" />
     <option name="y" value="30" />
     <option name="width" value="1875" />
     <option name="height" value="1080" />
@@ -56,8 +68,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -139,7 +151,8 @@
       <workItem from="1577448339102" duration="3568000" />
       <workItem from="1577456099430" duration="1195000" />
       <workItem from="1577512090264" duration="1983000" />
-      <workItem from="1577623140629" duration="260000" />
+      <workItem from="1577623140629" duration="590000" />
+      <workItem from="1577699251049" duration="50000" />
     </task>
     <task id="LOCAL-00001" summary="No Important Change.">
       <created>1577430603393</created>
@@ -180,7 +193,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18874000" />
+    <option name="totallyTimeSpent" value="19254000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -192,9 +205,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49929875" visible="true" weight="0.16823056" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49929875" visible="true" weight="0.17057396" />
       <window_info id="Structure" order="1" sideWeight="0.50070125" side_tool="true" weight="0.1641196" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -209,9 +222,9 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3286119" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" visible="true" weight="0.28186968" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.28186968" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3286119" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.19538188" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -332,8 +345,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/SwordToOffer/src/FindKthToTailSolution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        <state relative-caret-position="78">
+          <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SwordToOffer/src/JumpFloorSolution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
         </state>
       </provider>
     </entry>
