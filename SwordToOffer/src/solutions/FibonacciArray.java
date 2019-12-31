@@ -1,3 +1,5 @@
+package solutions;
+
 public class FibonacciArray {
   public int Fibonacci(int n) {
     if (n == 0) {

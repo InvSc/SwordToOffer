@@ -1,3 +1,5 @@
+package solutions;
+
 import java.util.Arrays;
 
 /** 题目描述
