@@ -1,4 +1,4 @@
-package solutions;
+package solutions.Newcoder;
 
 public class JumpFloorII_Solution {
     //递归解法

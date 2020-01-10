@@ -1,4 +1,4 @@
-package solutions;
+package solutions.Newcoder;
 
 import java.util.Stack;
 
