@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3cdb7921-efc8-41d2-8794-d984d5a6f8e0" name="Default Changelist" comment="Correct ReOrderArray solution.">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SwordToOffer/src/solutions/Leetcode/MinStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SwordToOffer/src/solutions/Leetcode/hammingWeightSolution.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SwordToOffer/src/solutions/Leetcode/invertTree_Solution.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SwordToOffer/src/solutions/Newcoder/HasSubtreeSolution.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SwordToOffer/src/utils/TreeNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/google-java-format.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/google-java-format.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SwordToOffer/src/FibonacciArray.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/SwordToOffer/src/FindKthToTailSolution.java" beforeDir="false" />
@@ -17,49 +19,23 @@
       <change beforePath="$PROJECT_DIR$/SwordToOffer/src/ReOrderArray.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/SwordToOffer/src/RectCover_Solution.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/SwordToOffer/src/RotatingArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SwordToOffer/src/solutions/FibonacciArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SwordToOffer/src/solutions/FindKthToTailSolution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SwordToOffer/src/solutions/FindPath_Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SwordToOffer/src/solutions/HasSubtreeSolution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SwordToOffer/src/solutions/IntegerPower.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SwordToOffer/src/solutions/JumpFloorII_Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SwordToOffer/src/solutions/JumpFloorSolution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SwordToOffer/src/solutions/PathSum_Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SwordToOffer/src/solutions/QueueImplement.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SwordToOffer/src/solutions/ReOrderArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SwordToOffer/src/solutions/RectCover_Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SwordToOffer/src/solutions/ReverseListSolution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SwordToOffer/src/solutions/RotatingArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SwordToOffer/src/solutions/TreeMirror_Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SwordToOffer/src/solutions/Leetcode/PathSum_Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/SwordToOffer/src/solutions/Leetcode/PathSum_Solution.java" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
   </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
   <component name="FavoritesManager">
     <favorites_list name="SwordToOffer" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/SwordToOffer/src/solutions/Leetcode/invertTree_Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="513">
-              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
-              <folding>
-                <element signature="e#300#301#0" expanded="true" />
-                <element signature="e#321#322#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -68,98 +44,16 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>root.left</find>
-    </findStrings>
-    <replaceStrings>
-      <replace>root.left</replace>
-      <replace>left</replace>
-    </replaceStrings>
-  </component>
   <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="SYNC" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/SwordToOffer" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/SwordToOffer/src/RectCover_Solution.java" />
-        <option value="$PROJECT_DIR$/SwordToOffer/src/ReOrderArray.java" />
-        <option value="$PROJECT_DIR$/SwordToOffer/src/FindKthToTail.java" />
-        <option value="$PROJECT_DIR$/SwordToOffer/src/FindKthToTailSolution.java" />
-        <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/SwordToOffer/src/utils/ListNode.java" />
-        <option value="$PROJECT_DIR$/SwordToOffer/src/solutions/ReverseListSolution.java" />
-        <option value="$PROJECT_DIR$/SwordToOffer/src/utils/TreeNode.java" />
-        <option value="$PROJECT_DIR$/SwordToOffer/src/solutions/HasSubtreeSolution.java" />
-        <option value="$PROJECT_DIR$/SwordToOffer/src/solutions/Leetcode/PathSum_Solution.java" />
-        <option value="$PROJECT_DIR$/SwordToOffer/src/solutions/Leetcode/invertTree_Solution.java" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="-8" />
-    <option name="width" value="1937" />
-    <option name="height" value="1038" />
-  </component>
+  <component name="ProjectId" id="1WbuYIezdyyTQsPrEL3kBRP1dTq" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="SwordToOffer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SwordToOffer" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SwordToOffer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SwordToOffer" type="462c0819:PsiDirectoryNode" />
-              <item name="SwordToOffer" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SwordToOffer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SwordToOffer" type="462c0819:PsiDirectoryNode" />
-              <item name="SwordToOffer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SwordToOffer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SwordToOffer" type="462c0819:PsiDirectoryNode" />
-              <item name="SwordToOffer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="solutions" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SwordToOffer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SwordToOffer" type="462c0819:PsiDirectoryNode" />
-              <item name="SwordToOffer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="solutions" type="462c0819:PsiDirectoryNode" />
-              <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SwordToOffer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SwordToOffer" type="462c0819:PsiDirectoryNode" />
-              <item name="SwordToOffer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="utils" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SwordToOffer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -167,7 +61,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/SwordToOffer" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JavaTutorial" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -175,19 +69,20 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.ReverseListSolution">
+  <component name="RunManager" selected="Application.MinStack">
+    <configuration name="MinStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="solutions.Leetcode.MinStack" />
+      <module name="SwordToOffer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="solutions.Leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ReOrderArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ReOrderArray" />
       <module name="SwordToOffer" />
@@ -210,10 +105,23 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MinStack" />
         <item itemvalue="Application.ReverseListSolution" />
         <item itemvalue="Application.ReOrderArray" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -239,6 +147,13 @@
       <workItem from="1578030937130" duration="9758000" />
       <workItem from="1578136673755" duration="3316000" />
       <workItem from="1578456442984" duration="2994000" />
+      <workItem from="1578661637417" duration="1266000" />
+      <workItem from="1578755601601" duration="55000" />
+      <workItem from="1579071734080" duration="1821000" />
+      <workItem from="1579430663168" duration="7066000" />
+      <workItem from="1579492892693" duration="2472000" />
+      <workItem from="1579610431634" duration="1986000" />
+      <workItem from="1579699934804" duration="1741000" />
     </task>
     <task id="LOCAL-00001" summary="No Important Change.">
       <created>1577430603393</created>
@@ -278,9 +193,6 @@
     <option name="localTasksCounter" value="6" />
     <servers />
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43825000" />
-  </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
       <is-autoscroll-to-source value="true" />
@@ -289,41 +201,6 @@
       <are-packages-shown value="true" />
       <is-autoscroll-to-source value="true" />
     </todo-panel>
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="0" width="1937" height="1038" extended-state="0" />
-    <editor active="true" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4989154" visible="true" weight="0.1555674" />
-      <window_info id="Structure" order="1" sideWeight="0.50070125" side_tool="true" weight="0.1641196" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" sideWeight="0.5010846" side_tool="true" weight="0.1391258" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2407932" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.3286119" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.28186968" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.19546743" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.3286119" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Theme Preview" order="4" />
-      <window_info anchor="right" id="Maven" order="5" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Database" order="8" />
-    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -344,20 +221,7 @@
         <entry key="MAIN">
           <value>
             <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
-              <option name="COLUMN_ORDER">
-                <list>
-                  <option value="0" />
-                  <option value="1" />
-                  <option value="2" />
-                  <option value="3" />
-                </list>
-              </option>
+              <option name="COLUMN_ORDER" />
             </State>
           </value>
         </entry>
@@ -385,141 +249,68 @@
     <MESSAGE value="Correct ReOrderArray solution." />
     <option name="LAST_COMMIT_MESSAGE" value="Correct ReOrderArray solution." />
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/SwordToOffer/src/FibonacciArray.java" />
-    <entry file="file://$PROJECT_DIR$/SwordToOffer/src/JumpFloorII_Solution.java" />
-    <entry file="file://$PROJECT_DIR$/SwordToOffer/src/RotatingArray.java" />
-    <entry file="file://$PROJECT_DIR$/SwordToOffer/src/RectCover_Solution.java" />
-    <entry file="file://$PROJECT_DIR$/SwordToOffer/src/QueueImplement.java" />
-    <entry file="file://$PROJECT_DIR$/SwordToOffer/SwordToOffer.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SwordToOffer/src/ReOrderArray.java" />
-    <entry file="file://$PROJECT_DIR$/SwordToOffer/src/JumpFloorSolution.java" />
-    <entry file="file://$PROJECT_DIR$/SwordToOffer/src/FindKthToTailSolution.java" />
-    <entry file="file://$PROJECT_DIR$/SwordToOffer/src/solutions/Newcoder/FindKthToTailSolution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SwordToOffer/src/utils/ListNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
-          <folding>
-            <element signature="e#246#247#0" expanded="true" />
-            <element signature="e#270#271#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SwordToOffer/src/utils/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SwordToOffer/src/solutions/Leetcode/PathSum_Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SwordToOffer/src/solutions/Newcoder/JumpFloorSolution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SwordToOffer/src/solutions/Newcoder/TreeMirror_Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SwordToOffer/src/solutions/Newcoder/RotatingArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SwordToOffer/src/solutions/Newcoder/ReverseListSolution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SwordToOffer/src/solutions/Newcoder/ReOrderArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SwordToOffer/src/solutions/Newcoder/RectCover_Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SwordToOffer/src/solutions/Newcoder/QueueImplement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SwordToOffer/src/solutions/Newcoder/JumpFloorII_Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SwordToOffer/src/solutions/Newcoder/IntegerPower.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SwordToOffer/src/solutions/Newcoder/HasSubtreeSolution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SwordToOffer/src/solutions/Leetcode/invertTree_Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
-          <folding>
-            <element signature="e#300#301#0" expanded="true" />
-            <element signature="e#321#322#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+  <component name="WindowStateProjectService">
+    <state x="455" y="151" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1579699998529">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="455" y="151" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1549.831@0.0.1549.831" timestamp="1579699998529" />
+    <state x="555" y="171" key="FileChooserDialogImpl" timestamp="1579532538897">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="555" y="171" key="FileChooserDialogImpl/0.0.1549.831@0.0.1549.831" timestamp="1579532538897" />
+    <state width="1506" height="148" key="GridCell.Tab.0.bottom" timestamp="1579701854299">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1506" height="148" key="GridCell.Tab.0.bottom/0.0.1549.831@0.0.1549.831" timestamp="1579701854299" />
+    <state width="1506" height="148" key="GridCell.Tab.0.center" timestamp="1579701854299">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1506" height="148" key="GridCell.Tab.0.center/0.0.1549.831@0.0.1549.831" timestamp="1579701854299" />
+    <state width="1506" height="148" key="GridCell.Tab.0.left" timestamp="1579701854299">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1506" height="148" key="GridCell.Tab.0.left/0.0.1549.831@0.0.1549.831" timestamp="1579701854299" />
+    <state width="1506" height="148" key="GridCell.Tab.0.right" timestamp="1579701854299">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1506" height="148" key="GridCell.Tab.0.right/0.0.1549.831@0.0.1549.831" timestamp="1579701854299" />
+    <state width="1506" height="288" key="GridCell.Tab.1.bottom" timestamp="1579701826685">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1506" height="288" key="GridCell.Tab.1.bottom/0.0.1549.831@0.0.1549.831" timestamp="1579701826685" />
+    <state width="1506" height="288" key="GridCell.Tab.1.center" timestamp="1579701826685">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1506" height="288" key="GridCell.Tab.1.center/0.0.1549.831@0.0.1549.831" timestamp="1579701826685" />
+    <state width="1506" height="288" key="GridCell.Tab.1.left" timestamp="1579701826685">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1506" height="288" key="GridCell.Tab.1.left/0.0.1549.831@0.0.1549.831" timestamp="1579701826685" />
+    <state width="1506" height="288" key="GridCell.Tab.1.right" timestamp="1579701826685">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1506" height="288" key="GridCell.Tab.1.right/0.0.1549.831@0.0.1549.831" timestamp="1579701826685" />
+    <state x="272" y="55" key="SettingsEditor" timestamp="1579610891941">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="270" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1579445814263" />
+    <state x="272" y="55" key="SettingsEditor/0.0.1549.831@0.0.1549.831" timestamp="1579610891941" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SwordToOffer/src/solutions/Leetcode/MinStack.java</url>
+          <line>63</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="minStack.helper.get(1)" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="masterDetails">
     <states>
