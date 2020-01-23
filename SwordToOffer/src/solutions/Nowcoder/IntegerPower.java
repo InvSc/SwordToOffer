@@ -1,4 +1,4 @@
-package solutions.Newcoder;
+package solutions.Nowcoder;
 
 public class IntegerPower {
   public double Power(double base, int exponent) {

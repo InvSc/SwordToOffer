@@ -1,4 +1,4 @@
-package solutions.Newcoder;
+package solutions.Nowcoder;
 
 public class JumpFloorSolution {
   public int JumpFloor(int target) {

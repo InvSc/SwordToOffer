@@ -1,4 +1,4 @@
-package solutions.Newcoder;
+package solutions.Nowcoder;
 
 import java.util.ArrayList;
 import java.util.Collections;

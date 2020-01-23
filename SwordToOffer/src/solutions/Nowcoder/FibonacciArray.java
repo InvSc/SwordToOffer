@@ -1,4 +1,4 @@
-package solutions.Newcoder;
+package solutions.Nowcoder;
 
 public class FibonacciArray {
   public int Fibonacci(int n) {

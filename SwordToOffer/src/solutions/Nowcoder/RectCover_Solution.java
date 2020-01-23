@@ -1,4 +1,4 @@
-package solutions.Newcoder;
+package solutions.Nowcoder;
 
 public class RectCover_Solution {
   public int RectCover(int target) {
