@@ -66,8 +66,6 @@ public class PathSum_Solution {
                 pathNode.remove(pathNode.size() - 1);
             }
         }
-
-
         //        if (pathNode.get(pathNode.size() - 1).left != null
         //            && pathNode.get(pathNode.size() - 1).left == currentNode
         //            && pathNode.get(pathNode.size() - 1).right == null) {
