@@ -62,8 +62,17 @@ class NodeCopyRandomListSolution {
         }
         return newHead;
     }
-    public int computeIndex(Node head, ) {
+    // For a specific Node node, only when it is not null,
+    // compute its Index in a List.
+    public int computeIndex(Node listHead, Node node) {
+        Node node1 = listHead; // 用于遍历的原节点
+        int index = 0; // 待求的random值
+        if (node1 == node)
+        while (node1.next != node) {
+            node1 = node1.next;
 
+        }
+        return index;
     }
 }
 
