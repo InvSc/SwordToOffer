@@ -1,4 +1,7 @@
 package solutions.Leetcode;
 
-public class getLeastNumbersSolution {
+class getLeastNumbersSolution {
+    public int[] getLeastNumbers(int[] arr, int k) {
+
+    }
 }
